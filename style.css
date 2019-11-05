@@ -23,12 +23,10 @@ figcaption {
   text-align: center;
   
 }
-#display{
+#details{
   display: block;
-  background-color: green;
-  
 }
-#display div{
+#etails div{
   float: left;
   width: 225px;
   background-color: red;
