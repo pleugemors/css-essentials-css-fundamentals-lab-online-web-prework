@@ -23,3 +23,10 @@ figcaption {
   text-align: center;
   
 }
+#display{
+  display: block;
+  
+}
+#display div{
+  float: left;
+}
