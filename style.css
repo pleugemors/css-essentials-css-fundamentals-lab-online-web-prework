@@ -26,7 +26,7 @@ figcaption {
 #details{
   display: block;
 }
-#etails div{
+#details div{
   float: left;
   width: 225px;
   background-color: red;
