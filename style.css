@@ -29,4 +29,6 @@ figcaption {
 }
 #display div{
   float: left;
+  width: 225px;
+  background-color: red;
 }
